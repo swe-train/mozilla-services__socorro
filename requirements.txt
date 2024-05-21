@@ -274,6 +274,7 @@ django==4.2.13 \
     #   django-cors-headers
     #   django-csp
     #   django-jinja
+    #   django-waffle
     #   djangorestframework
     #   mozilla-django-oidc
 django-cors-headers==4.3.1 \
@@ -299,9 +300,9 @@ django-ratelimit==4.1.0 \
     --hash=sha256:555943b283045b917ad59f196829530d63be2a39adb72788d985b90c81ba808b \
     --hash=sha256:d047a31cf94d83ef1465d7543ca66c6fc16695559b5f8d814d1b51df15110b92
     # via -r requirements.in
-django-waffle==2.3.0 \
-    --hash=sha256:8f457523859f39f77b785dfeb18d57d8c80d97ba05698aed7fa587bb86539476 \
-    --hash=sha256:e4c29570d61c5759b07d9c88154c14b0b189dbf772ac8744c44e226cc7bd75bf
+django-waffle==4.1.0 \
+    --hash=sha256:5979a2f3dd674ef7086480525b39651fc2045427f6d8e6a614192656d3402c5b \
+    --hash=sha256:e49d7d461d89f3bd8e53f20efe39310acca8f275c9888495e68e195345bf18b1
     # via -r requirements.in
 djangorestframework==3.15.1 \
     --hash=sha256:3ccc0475bce968608cf30d07fb17d8e52d1d7fc8bfe779c905463200750cbca6 \
