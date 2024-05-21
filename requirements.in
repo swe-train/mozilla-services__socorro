@@ -62,7 +62,7 @@ sphinx_rtd_theme==2.0.0
 
 # NOTE(willkg): Don't need to update this. We don't really use it and we should
 # remove it.
-django-waffle==2.3.0
+django-waffle==4.1.0
 
 # NOTE(willkg): We stick with LTS releases and the next one is 5.2 (2025).
 django==4.2.13
